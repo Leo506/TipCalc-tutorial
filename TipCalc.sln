@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalc.Core", "TipCalc.Core\TipCalc.Core.csproj", "{1E664ED1-0E01-4522-BA93-A23FE417F57B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalc.Forms.UI", "TipCalc.Forms.UI\TipCalc.Forms.UI.csproj", "{4E7CF4E0-FCEC-48B0-BA6E-F015C359678B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalc.Forms.Droid", "TipCalc.Forms.Droid\TipCalc.Forms.Droid.csproj", "{B2E8C321-5D84-4D31-8A04-044D5FFDBF17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E664ED1-0E01-4522-BA93-A23FE417F57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E664ED1-0E01-4522-BA93-A23FE417F57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E664ED1-0E01-4522-BA93-A23FE417F57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E664ED1-0E01-4522-BA93-A23FE417F57B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7CF4E0-FCEC-48B0-BA6E-F015C359678B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7CF4E0-FCEC-48B0-BA6E-F015C359678B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7CF4E0-FCEC-48B0-BA6E-F015C359678B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7CF4E0-FCEC-48B0-BA6E-F015C359678B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E8C321-5D84-4D31-8A04-044D5FFDBF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E8C321-5D84-4D31-8A04-044D5FFDBF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E8C321-5D84-4D31-8A04-044D5FFDBF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E8C321-5D84-4D31-8A04-044D5FFDBF17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
